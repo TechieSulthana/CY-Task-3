@@ -34,5 +34,5 @@ Perform a basic vulnerability scan on your PC using a free vulnerability scanner
 The system is **moderately secure** but requires minor mitigations to reduce exposure. Implementing the suggested fixes will enhance the security posture and minimize potential attack vectors.
 
 ## Deliverables
-- `Task3_Vulnerability_Scan_Report.docx` (contains detailed findings and screenshots)
+- `Task3_Vulnerability_Scan_Report.pdf` (contains detailed findings and screenshots)
 - Screenshots of scan summary and vulnerability details
